@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Apoca-mc/ApocaFleau-Launcher"
+        "url": "git+https://github.com/Apoca-mc/ApocaFleau-Launcher.git"
     }
 }
