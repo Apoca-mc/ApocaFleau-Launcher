@@ -1,8 +1,8 @@
 {
-    "name": "apocafleau",
-    "productname": "ApocaFleauLauncher",
-    "version": "1.0.6",
-    "description": "Launcher Mincraft pour le serveur ApocaFleau",
+    "name": "CSMP",
+    "productname": "CSMP",
+    "version": "1.1.1",
+    "description": "Launcher Mincraft pour le serveur CSMP",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Flyxios, Inc.",
